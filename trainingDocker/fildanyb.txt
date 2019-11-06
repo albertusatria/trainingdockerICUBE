@@ -1,3 +1,3 @@
-Nama	: Fildan Yodie Bintara
-Roles	: Infra
-Username: fildanyb
+Nama		: Fildan Yodie Bintara
+Roles		: Infra
+Username Github	: fildanyb
