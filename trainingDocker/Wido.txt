@@ -1,2 +1,2 @@
 nama : Wido Hidayatullah
-rolse : PWA
+roles : PWA
