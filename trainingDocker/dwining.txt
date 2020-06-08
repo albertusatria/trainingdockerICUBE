@@ -1,4 +1,4 @@
 a) Name 	: Dwining Wahyudi
 b) Roles 	: Backend Developer (BE)
 c) Username 	: dwiningicube
-d) Email 	: dwining@icube.us
+d) Email 	: dwining@icube.us.
