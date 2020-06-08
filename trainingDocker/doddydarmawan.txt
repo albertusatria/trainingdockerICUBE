@@ -1,5 +1,8 @@
 a. doddy darmawan
 b. Backend
 c. doddydarmawan
+<<<<<<< HEAD
 d. test
 e. confilct
+=======
+>>>>>>> push first git hub
